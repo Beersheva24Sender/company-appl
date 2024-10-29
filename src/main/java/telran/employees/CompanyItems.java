@@ -9,7 +9,7 @@ public class CompanyItems {
 
     final static int MIN_SALARY = 5000;
     final static int MAX_SALARY = 30000;
-    final static long MIN_ID = 100000;
+    final static long MIN_ID = 1;
     final static long MAX_ID = 999999;
     final static int MIN_WAGE = 0;
     final static int MAX_WAGE = 100;
