@@ -2,6 +2,8 @@
 
 This Java application provides a comprehensive management system for employees within a company, allowing for employee hiring, removal, display, and department-based salary reporting. It also allows administrators to view the departments and manage factors for managers based on specified parameters.
 
+Link TODO: https://github.dev/Beersheva24Telran/company-application/tree/main/src/main/java/telran/employees
+
 ## Features
 
 - **Employee Management**: Hire and remove employees, with support for various employee types such as Regular, Wage, Salesperson, and Manager.
